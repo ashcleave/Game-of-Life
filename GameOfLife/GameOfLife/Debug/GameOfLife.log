@@ -1,0 +1,6 @@
+﻿  GameOfLife.cpp
+c:\users\ashley\onedrive\projects\c++\gameoflife\gameoflife\gameoflife.cpp(136): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ashley\onedrive\projects\c++\gameoflife\gameoflife\gameoflife.cpp(156): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ashley\onedrive\projects\c++\gameoflife\gameoflife\gameoflife.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ashley\onedrive\projects\c++\gameoflife\gameoflife\gameoflife.cpp(128): warning C4715: 'userInterfece': not all control paths return a value
+  GameOfLife.vcxproj -> C:\Users\Ashley\OneDrive\Projects\C++\GameOfLife\Debug\GameOfLife.exe
